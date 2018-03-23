@@ -1,0 +1,10 @@
+com\gionee\gnif\file\web\message\Message.class
+com\gionee\gnif\file\util\FileUtil.class
+com\gionee\gnif\file\biz\service\impl\DefaultFileServiceImpl.class
+com\gionee\gnif\file\biz\model\ChunkFile.class
+com\gionee\gnif\file\util\MD5Util.class
+com\gionee\gnif\file\constant\PropertiesConfig.class
+com\gionee\gnif\file\web\api\FileController.class
+com\gionee\gnif\file\constant\FileSysOuterConfig.class
+com\gionee\gnif\file\biz\service\impl\DefaultFileServiceImpl$1.class
+com\gionee\gnif\file\biz\service\FileService.class
